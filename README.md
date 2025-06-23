@@ -25,4 +25,6 @@ Try the app live here:
 
     Deployed via Vercel
 
-    ![image](https://github.com/user-attachments/assets/4e14d073-6a88-4e9d-9e4d-4a01f323c1c1)
+
+![image](https://github.com/user-attachments/assets/60230666-9882-4d1d-9530-4d530255ec40)
+
